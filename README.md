@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedosmann&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedosmann" /> </p>
 
-- 🔭 I’m currently working on [YOS ERP ](https://olearn.simad.edu.so/](https://yos-erp.vercel.app/))
+- 🔭 I’m currently working on [YOS ERP ]((https://yos-erp.vercel.app/))
 
 - 🌱 I’m currently learning **Oracle DB**
 
